@@ -13,6 +13,10 @@ const generateStatsForMode = (stats, mode) => {
     };
 };
 
+/**
+ * SkyWars stats.
+ * @param {Object} stats SkyWars stats.
+ */
 class Skywars {
     constructor(stats) {
         /**
